@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 햄버거바 열었을때 리스트 -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="홈" />
+        <item
+            android:id="@+id/nav_mypage"
+            android:icon="@drawable/ic_menu_shopping"
+            android:title="내 결제내역" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_setting"
+            android:title="설정" />
+    </group>
+
+    <item android:title="Communicate">
+        <group android:checkableBehavior="single">
+            <menu>
+                <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="개발자에게 한마디" />
+            </menu>
+        </group>
+    </item>
+
+</menu>

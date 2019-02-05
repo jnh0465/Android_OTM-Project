@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "987327583362",
+    "firebase_url": "https://fcmpush180726.firebaseio.com",
+    "project_id": "fcmpush180726",
+    "storage_bucket": "fcmpush180726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987327583362:android:5d8c8433c5f841e5",
+        "android_client_info": {
+          "package_name": "com.example.otm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987327583362-pkb4d6i5nn900h990krpg94d63t0j6fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QG7YiJHB43LXsx818L4wh2okrwbsq2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987327583362:android:46628f3bb350a2f9",
+        "android_client_info": {
+          "package_name": "com.nuntteuniachim.otm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987327583362-pkb4d6i5nn900h990krpg94d63t0j6fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QG7YiJHB43LXsx818L4wh2okrwbsq2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
